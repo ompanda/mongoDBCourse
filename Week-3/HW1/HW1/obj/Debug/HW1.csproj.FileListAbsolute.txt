@@ -1,0 +1,11 @@
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\bin\Debug\HW1.exe.config
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\obj\Debug\HW1.csprojResolveAssemblyReference.cache
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\bin\Debug\HW1.exe
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\bin\Debug\HW1.pdb
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\bin\Debug\MongoDB.Bson.dll
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\bin\Debug\MongoDB.Driver.Core.dll
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\bin\Debug\MongoDB.Driver.dll
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\bin\Debug\MongoDB.Bson.xml
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\bin\Debug\MongoDB.Driver.xml
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\obj\Debug\HW1.exe
+G:\Dot Net Work\GitHub\mongoDBCourse\Week-3\HW1\HW1\obj\Debug\HW1.pdb
